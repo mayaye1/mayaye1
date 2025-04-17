@@ -1,6 +1,6 @@
----
+-
 
-▎Project Outline: Modeling Inventory Transactions and Movement
+▎Project Outline  Modeling Inventory Transactions and Movement
 
 ▎Objective
 
