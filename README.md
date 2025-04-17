@@ -2,17 +2,17 @@
 
 ▎Project Outline: Modeling Inventory Transactions and Movement
 
-▎Objective:
+▎Objective
 
 To develop an inventory management system that accurately tracks inventory transactions and movements, ensuring real-time visibility of stock levels across various locations. The system will handle receiving, transferring, selling, and adjusting inventory, providing a reliable way to manage stock.
 
 ---
 
-▎Project Description:
+▎Project Description
 
 This project aims to create a user-friendly inventory management system that can handle various types of transactions related to inventory. Users will be able to record incoming stock from suppliers, manage sales to customers, transfer items between warehouses or stores, and adjust stock levels for discrepancies. The system will ensure that all movements are logged accurately to maintain up-to-date inventory records.
 
-▎Key Features:
+▎Key Features
 
 • Inventory Tracking: Keep track of stock levels in real-time.
 
@@ -26,7 +26,7 @@ This project aims to create a user-friendly inventory management system that can
 
 ---
 
-▎Structure and Implementation Steps:
+▎Structure and Implementation Steps
 
 ▎1. Define Inventory Transactions
 
